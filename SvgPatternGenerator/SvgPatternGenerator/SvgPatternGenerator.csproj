@@ -67,6 +67,12 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\CarbonFibre.html" />
+    <Content Include="Resources\Chevrons.html" />
+    <Content Include="Resources\DiagonalStripes.html" />
+    <Content Include="Resources\Honeycomb.html" />
+    <Content Include="Resources\HorizontalStripes.html" />
+    <Content Include="Resources\MicrobialMat.html" />
     <Content Include="Resources\VerticalStripes.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
