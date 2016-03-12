@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\bin\Debug\SvgPatternGenerator.Tests.dll
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\bin\Debug\SvgPatternGenerator.Tests.pdb
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\bin\Debug\SvgPatternGenerator.dll
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\bin\Debug\SvgPatternGenerator.pdb
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\obj\Debug\SvgPatternGenerator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\obj\Debug\SvgPatternGenerator.Tests.dll
+C:\Users\User\Source\Repos\svg-pattern-generator\SvgPatternGenerator\SvgPatternGenerator.Tests\obj\Debug\SvgPatternGenerator.Tests.pdb
