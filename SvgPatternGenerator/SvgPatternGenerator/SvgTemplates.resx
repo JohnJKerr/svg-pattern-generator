@@ -118,25 +118,61 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Carbon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\carbon.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
   <data name="CarbonFibre" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\CarbonFibre.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>resources\carbonfibre.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Chequered" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\chequered.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="Chevrons" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\Chevrons.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>resources\chevrons.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="CrossHatch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\crosshatch.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Dance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\dance.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="DiagonalStripes" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\DiagonalStripes.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>resources\diagonalstripes.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Dots" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\dots.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Gingham" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\gingham.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="HalfRombes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\halfrombes.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="Honeycomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\Honeycomb.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>resources\honeycomb.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="HorizontalStripes" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\HorizontalStripes.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>resources\horizontalstripes.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="MicrobialMat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\MicrobialMat.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>resources\microbialmat.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Noise" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\noise.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Shippo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\shippo.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="ThinDiagonalStripes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\thindiagonalstripes.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="TwoToneHorizontal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\twotonehorizontal.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="VerticalStripes" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\VerticalStripes.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+    <value>resources\verticalstripes.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="Waves" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>resources\waves.html;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
 </root>

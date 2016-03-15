@@ -61,6 +61,23 @@ namespace SvgPatternGenerator {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; xmlns:xlink=&apos;http://www.w3.org/1999/xlink&apos; width=&apos;6&apos; height=&apos;6&apos;&gt;
+        ///	&lt;rect width=&apos;6&apos; height=&apos;6&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;g id=&apos;c&apos;&gt;
+        ///		&lt;rect width=&apos;3&apos; height=&apos;3&apos; fill=&apos;{1}&apos; /&gt;
+        ///		&lt;rect y=&apos;1&apos; width=&apos;3&apos; height=&apos;2&apos; fill=&apos;{2}&apos; /&gt;
+        ///	&lt;/g&gt;
+        ///	&lt;use xlink:href=&apos;#c&apos; x=&apos;3&apos; y=&apos;3&apos; /&gt;
+        ///&lt;/svg&gt;
+        ///.
+        /// </summary>
+        internal static string Carbon {
+            get {
+                return ResourceManager.GetString("Carbon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;15&apos; height=&apos;15&apos;&gt;
         ///	&lt;rect width=&apos;50&apos; height=&apos;50&apos; fill=&apos;{0}&apos; /&gt;
         ///	&lt;circle cx=&apos;3&apos; cy=&apos;4.3&apos; r=&apos;1.8&apos; fill=&apos;{1}&apos; /&gt;
@@ -73,6 +90,19 @@ namespace SvgPatternGenerator {
         internal static string CarbonFibre {
             get {
                 return ResourceManager.GetString("CarbonFibre", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;60&apos; height=&apos;60&apos;&gt;
+        ///	&lt;rect width=&apos;60&apos; height=&apos;60&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;rect width=&apos;42.42&apos; height=&apos;42.42&apos; transform=&apos;translate(30 0) rotate(45)&apos; fill=&apos;{1}&apos; /&gt;
+        ///&lt;/svg&gt;
+        ///.
+        /// </summary>
+        internal static string Chequered {
+            get {
+                return ResourceManager.GetString("Chequered", resourceCulture);
             }
         }
         
@@ -98,6 +128,37 @@ namespace SvgPatternGenerator {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;8&apos; height=&apos;8&apos;&gt;
+        ///	&lt;rect width=&apos;8&apos; height=&apos;8&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;path d=&apos;M0 0L8 8ZM8 0L0 8Z&apos; stroke-width=&apos;1&apos; stroke=&apos;{1}&apos; /&gt;
+        ///&lt;/svg&gt;.
+        /// </summary>
+        internal static string CrossHatch {
+            get {
+                return ResourceManager.GetString("CrossHatch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;8&apos; height=&apos;8&apos;&gt;
+        ///	&lt;path d=&apos;M-2 10L10 -2ZM10 6L6 10ZM-2 2L2 -2&apos; stroke=&apos;{0}&apos; stroke-width=&apos;4.5&apos; /&gt;
+        ///&lt;/svg&gt;
+        ///
+        ///&lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;100%&apos; height=&apos;100%&apos;&gt;
+        ///	&lt;linearGradient id=&apos;g&apos; x2=&apos;1&apos; y2=&apos;1&apos;&gt;
+        ///		&lt;stop stop-color=&apos;{1}&apos; /&gt;
+        ///		&lt;stop offset=&apos;100%&apos; stop-color=&apos;{2}&apos; /&gt;
+        ///	&lt;/linearGradient&gt;
+        ///	&lt;rect width=&apos;100%&apos; height=&apos;100%&apos; fill=&apos;url(#g)&apos; /&gt;
+        ///&lt;/svg&gt;.
+        /// </summary>
+        internal static string Dance {
+            get {
+                return ResourceManager.GetString("Dance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;70&apos; height=&apos;70&apos;&gt;
         ///	&lt;rect width=&apos;70&apos; height=&apos;70&apos; fill=&apos;{0}&apos; /&gt;
         ///	&lt;g transform=&apos;rotate(45)&apos;&gt;
@@ -109,6 +170,44 @@ namespace SvgPatternGenerator {
         internal static string DiagonalStripes {
             get {
                 return ResourceManager.GetString("DiagonalStripes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;5&apos; height=&apos;5&apos;&gt;
+        ///	&lt;rect width=&apos;5&apos; height=&apos;5&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;rect width=&apos;1&apos; height=&apos;1&apos; fill=&apos;{1}&apos; /&gt;
+        ///&lt;/svg&gt;
+        ///.
+        /// </summary>
+        internal static string Dots {
+            get {
+                return ResourceManager.GetString("Dots", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;20&apos; height=&apos;20&apos;&gt;
+        ///	&lt;rect width=&apos;20&apos; height=&apos;20&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;rect width=&apos;10&apos; height=&apos;10&apos; fill=&apos;{1}&apos; /&gt;
+        ///	&lt;rect x=&apos;10&apos; y=&apos;10&apos; width=&apos;10&apos; height=&apos;10&apos; fill=&apos;{2}&apos; /&gt;
+        ///&lt;/svg&gt;.
+        /// </summary>
+        internal static string Gingham {
+            get {
+                return ResourceManager.GetString("Gingham", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;15&apos; height=&apos;15&apos;&gt;
+        ///	&lt;rect width=&apos;15&apos; height=&apos;15&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;path d=&apos;M0 15L7.5 0L15 15Z&apos; fill=&apos;{1}&apos; /&gt;
+        ///&lt;/svg&gt;.
+        /// </summary>
+        internal static string HalfRombes {
+            get {
+                return ResourceManager.GetString("HalfRombes", resourceCulture);
             }
         }
         
@@ -154,6 +253,61 @@ namespace SvgPatternGenerator {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; xmlns:xlink=&apos;http://www.w3.org/1999/xlink&apos; width=&apos;300&apos; height=&apos;300&apos;&gt;
+        ///	&lt;filter id=&apos;n&apos; x=&apos;0&apos; y=&apos;0&apos;&gt;
+        ///		&lt;feTurbulence type=&apos;fractalNoise&apos; baseFrequency=&apos;0.7&apos; numOctaves=&apos;10&apos; stitchTiles=&apos;stitch&apos; /&gt;
+        ///	&lt;/filter&gt;
+        ///	&lt;rect width=&apos;300&apos; height=&apos;300&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;rect width=&apos;300&apos; height=&apos;300&apos; filter=&quot;url(#n)&quot; opacity=&apos;0.4&apos; /&gt;
+        ///&lt;/svg&gt;
+        ///.
+        /// </summary>
+        internal static string Noise {
+            get {
+                return ResourceManager.GetString("Noise", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;80&apos; height=&apos;80&apos;&gt;
+        ///	&lt;rect width=&apos;80&apos; height=&apos;80&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;circle cx=&apos;40&apos; cy=&apos;40&apos; r=&apos;40&apos; fill=&apos;{1}&apos; /&gt;
+        ///	&lt;path d=&apos;M0 40 A40 40 45 0 0 40 0 A40 40 315 0 0 80 40 A40 40 45 0 0 40 80 A40 40 270 0 0 0 40Z&apos; fill=&apos;{2}&apos; /&gt;
+        ///&lt;/svg&gt;.
+        /// </summary>
+        internal static string Shippo {
+            get {
+                return ResourceManager.GetString("Shippo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;5&apos; height=&apos;5&apos;&gt;
+        ///	&lt;rect width=&apos;5&apos; height=&apos;5&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;path d=&apos;M0 5L5 0ZM6 4L4 6ZM-1 1L1 -1Z&apos; stroke=&apos;{1}&apos; stroke-width=&apos;1&apos; /&gt;
+        ///&lt;/svg&gt;
+        ///.
+        /// </summary>
+        internal static string ThinDiagonalStripes {
+            get {
+                return ResourceManager.GetString("ThinDiagonalStripes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;20&apos; height=&apos;9&apos;&gt;
+        ///	&lt;rect width=&apos;20&apos; height=&apos;9&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;rect width=&apos;20&apos; height=&apos;2&apos; fill=&apos;{1}&apos; /&gt;
+        ///	&lt;rect y=&apos;2&apos; width=&apos;20&apos; height=&apos;3&apos; fill=&apos;{2}&apos; /&gt;
+        ///&lt;/svg&gt;.
+        /// </summary>
+        internal static string TwoToneHorizontal {
+            get {
+                return ResourceManager.GetString("TwoToneHorizontal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;50&apos; height=&apos;50&apos;&gt;
         ///	&lt;rect width=&apos;50&apos; height=&apos;50&apos; fill=&apos;{0}&apos; /&gt;
         ///	&lt;rect x=&apos;25&apos; width=&apos;25&apos; height=&apos;50&apos; fill=&apos;{1}&apos; /&gt;
@@ -162,6 +316,20 @@ namespace SvgPatternGenerator {
         internal static string VerticalStripes {
             get {
                 return ResourceManager.GetString("VerticalStripes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;svg xmlns=&apos;http://www.w3.org/2000/svg&apos; width=&apos;75&apos; height=&apos;100&apos;&gt;
+        ///	&lt;rect width=&apos;75&apos; height=&apos;100&apos; fill=&apos;{0}&apos; /&gt;
+        ///	&lt;circle cx=&apos;75&apos; cy=&apos;50&apos; r=&apos;28.3%&apos; stroke-width=&apos;12&apos; stroke=&apos;{1}&apos; fill=&apos;none&apos; /&gt;
+        ///	&lt;circle cx=&apos;0&apos; r=&apos;28.3%&apos; stroke-width=&apos;12&apos; stroke=&apos;{2}&apos; fill=&apos;none&apos; /&gt;
+        ///	&lt;circle cy=&apos;100&apos; r=&apos;28.3%&apos; stroke-width=&apos;12&apos; stroke=&apos;{3}&apos; fill=&apos;none&apos; /&gt;
+        ///&lt;/svg&gt;.
+        /// </summary>
+        internal static string Waves {
+            get {
+                return ResourceManager.GetString("Waves", resourceCulture);
             }
         }
     }

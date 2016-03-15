@@ -67,6 +67,18 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\Noise.html" />
+    <Content Include="Resources\ThinDiagonalStripes.html" />
+    <Content Include="Resources\Dots.html" />
+    <Content Include="Resources\CrossHatch.html" />
+    <Content Include="Resources\Carbon.html" />
+    <Content Include="Resources\Gingham.html" />
+    <Content Include="Resources\HalfRombes.html" />
+    <Content Include="Resources\Shippo.html" />
+    <Content Include="Resources\TwoToneHorizontal.html" />
+    <Content Include="Resources\Waves.html" />
+    <Content Include="Resources\Chequered.html" />
+    <Content Include="Resources\Dance.html" />
     <Content Include="Resources\CarbonFibre.html" />
     <Content Include="Resources\Chevrons.html" />
     <Content Include="Resources\DiagonalStripes.html" />
