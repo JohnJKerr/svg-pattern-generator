@@ -47,8 +47,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PatternGenerator.cs" />
+    <Compile Include="Patterns\Carbon.cs" />
+    <Compile Include="Patterns\CarbonFibre.cs" />
+    <Compile Include="Patterns\Chequered.cs" />
+    <Compile Include="Patterns\Chevrons.cs" />
+    <Compile Include="Patterns\CrossHatch.cs" />
+    <Compile Include="Patterns\Dance.cs" />
+    <Compile Include="Patterns\DiagonalStripes.cs" />
+    <Compile Include="Patterns\Dots.cs" />
+    <Compile Include="Patterns\Gingham.cs" />
+    <Compile Include="Patterns\HalfRombes.cs" />
+    <Compile Include="Patterns\Honeycomb.cs" />
+    <Compile Include="Patterns\HorizontalStripes.cs" />
+    <Compile Include="Patterns\MicrobialMat.cs" />
+    <Compile Include="Patterns\Noise.cs" />
     <Compile Include="Patterns\Pattern.cs" />
+    <Compile Include="Patterns\Shippo.cs" />
+    <Compile Include="Patterns\ThinDiagonalStripes.cs" />
+    <Compile Include="Patterns\TwoToneHorizontal.cs" />
     <Compile Include="Patterns\VerticalStripes.cs" />
+    <Compile Include="Patterns\Waves.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SvgTemplates.Designer.cs">
       <AutoGen>True</AutoGen>
