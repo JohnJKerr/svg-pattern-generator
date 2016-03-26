@@ -8,8 +8,8 @@ namespace SvgPatternGenerator.Patterns
 {
 	internal class CarbonFibre : Pattern
 	{
-		internal CarbonFibre(string primaryColour, string secondaryColour, string tertiaryColour)
-			: base(SvgTemplates.CarbonFibre, primaryColour, secondaryColour, tertiaryColour)
+		internal CarbonFibre(string backgroundColour, string primaryDotColour, string secondaryDotColour)
+			: base(SvgTemplates.CarbonFibre, backgroundColour, primaryDotColour, secondaryDotColour)
 		{
 		}
 	}
