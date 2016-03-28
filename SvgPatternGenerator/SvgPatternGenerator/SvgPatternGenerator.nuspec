@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/JohnJKerr/svg-pattern-generator/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/JohnJKerr/svg-pattern-generator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial version.</releaseNotes>
+    <copyright>Copyright 2016 John Kerr</copyright>
+    <tags>svg pattern generator custom colour</tags>
+  </metadata>
+</package>
