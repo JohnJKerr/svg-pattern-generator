@@ -1,0 +1,7 @@
+.vs/
+packages/
+nuget.exe
+*.dll
+*.pdb
+*.nupkg
+ResolveAssemblyReference.cache
